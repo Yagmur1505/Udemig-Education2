@@ -1,4 +1,4 @@
-![demo udemig education2](https://github.com/user-attachments/assets/c8426d70-7aab-4e76-8ac6-2d7fc79aa17a)# Udemig Education - Educations Course Website Project
+## Udemig Education - Educations Course Website Project
 
 This project is a modern and responsive website for Udemyg Education, created using *SCSS*. It serves as an educational platform, offering users the opportunity to learn and plan their future in software development.
 
